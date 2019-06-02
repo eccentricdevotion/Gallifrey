@@ -1,8 +1,8 @@
 # Gallifrey
 
-A world specific Resource Pack for the TARDIS plugin. It contains custom grass, oak leaf, plant, sky, clouds and fog colours. Requires [OptiFine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953) or [MCPatcher](https://bitbucket.org/prupe/mcpatcher/wiki/Home).
+A world specific Resource Pack for the TARDIS plugin. It contains custom grass, oak leaf, plant, sky, clouds and fog colours. Requires [OptiFine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953).
 
-![image](https://www.dropbox.com/s/mjcsnlwdhmgb7ge/gallifrey.jpg?dl=1)
+![image](https://dl.dropboxusercontent.com/s/mjcsnlwdhmgb7ge/gallifrey.jpg?dl=1)
 
 
 ## Installation
