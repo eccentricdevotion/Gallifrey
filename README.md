@@ -20,12 +20,11 @@ Here's a quick run down on doing that:
    * [GitHub for Windows](https://windows.github.com/)
 2. Start GitHub client and create a free GitHub account (if you don’t have one)
 3. In your web browser, navigate to the TARDIS resource pack repositories
-   * [Gallifrey](https://github.com/eccentricdevotion/Gallifrey)
+   * Gallifrey (You are here)
    * [Skaro](https://github.com/eccentricdevotion/Skaro)
-   * [TARDISWeepingAngels](https://github.com/eccentricdevotion/TARDISWeepingAngels-Resource-Pack)
-   * [TARDIS-MCP](https://github.com/eccentricdevotion/TARDIS-MCP)
+   * [TARDIS-Resource-Pack](https://github.com/eccentricdevotion/TARDIS-Resource-Pack)
    * [TARDIS-Sounds](https://github.com/eccentricdevotion/TARDIS-SoundResourcePack)
-   * [Bromley Massive Vector](https://github.com/eccentricdevotion/Bromley-Massive-Vector)
+   * [TARDISWeepingAngels](https://github.com/eccentricdevotion/TARDISWeepingAngels-Resource-Pack) - you only need this if you don't have the TARDIS-Resource-Pack...
 4. Click the green __Clone or download__ button, then the __Open in Desktop__ link
 5. Save the repository clone in the minecraft/resourcepacks folder
 6. Repeat steps 4 and 5 for each resource pack
